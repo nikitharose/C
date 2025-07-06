@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[])
 {
-    int elements[5]={2,3,6,3,1};
+    int elements[5]={2,3,6,4,1};
     int freq[1000];
     int flag=0;
     for(int i=0;i<5;i++)
