@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "C",
+			"path": ".."
+		},
+		{
+			"name": "arduino_level1",
+			"path": "../../../PlatformIO/Projects/arduino_level1"
+		},
+		{
+			"name": "ARM_test1",
+			"path": "../../../PlatformIO/Projects/ARM_test1"
+		}
+	],
+	"settings": {}
+}
