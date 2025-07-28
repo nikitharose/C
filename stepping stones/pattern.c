@@ -10,11 +10,11 @@ int main(int argc, char* argv[])
     {
         for(j=0;j<num-i-1;j++)
         {
-           printf("  "); 
+           printf(" "); 
         }
         for(j=0;j<2*i+1;j++)
         {
-            printf("* ");
+            printf("%d",j+1 );
             //k--;
         }
         printf("\n");
